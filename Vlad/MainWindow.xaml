@@ -1,0 +1,25 @@
+﻿<Window x:Class="Vlad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vlad"
+        mc:Ignorable="d"
+        Title="Do you see this Vlad?" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBox Name="path" Grid.ColumnSpan="2" Margin="3" LostFocus="path_LostFocus"/>
+        <ListBox Name="l1" Grid.Column="0" Grid.Row="1" SelectionChanged="l1_Selected"/>
+        <ListBox Name="l2" Grid.Column="1" Grid.Row="1" SelectionChanged="l2_SelectionChanged"/>
+        <ListBox Name="l3" Grid.Column="0" Grid.Row="2" SelectionChanged="l3_SelectionChanged"/>
+        <ListBox Name="l4" Grid.Column="1" Grid.Row="2"/>
+    </Grid>
+</Window>

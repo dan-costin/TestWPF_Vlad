@@ -1,0 +1,14 @@
+C:\Users\danco\Desktop\Vlad\Vlad\bin\Debug\Vlad.exe.config
+C:\Users\danco\Desktop\Vlad\Vlad\bin\Debug\Vlad.exe
+C:\Users\danco\Desktop\Vlad\Vlad\bin\Debug\Vlad.pdb
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad.csprojResolveAssemblyReference.cache
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\MainWindow.g.cs
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\App.g.cs
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad_MarkupCompile.cache
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad_MarkupCompile.lref
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\MainWindow.baml
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad.g.resources
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad.Properties.Resources.resources
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad.csproj.GenerateResource.Cache
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad.exe
+C:\Users\danco\Desktop\Vlad\Vlad\obj\Debug\Vlad.pdb
